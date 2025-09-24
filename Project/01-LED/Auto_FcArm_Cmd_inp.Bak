@@ -1,0 +1,7 @@
+Startup\core_cm3.c,
+Startup\core_cm3.h,
+Startup\startup_stm32f10x_md.s,
+Startup\stm32f10x.h,
+Startup\system_stm32f10x.c,
+Startup\system_stm32f10x.h 
+TO LED NOPRINT
